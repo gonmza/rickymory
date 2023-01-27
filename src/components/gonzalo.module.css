@@ -1,0 +1,81 @@
+body {
+background-image:url("C:\Users\gonmz\OneDrive\Escritorio\Rick_and_morty\imagenes\imag.jpg");
+background-size: cover;
+background-attachment: fixed;
+
+}
+.login{
+
+    background-image:url("C:\Users\gonmz\OneDrive\Escritorio\Rick_and_morty\imagenes\login.png") ;
+    border-radius: 13rem;
+    background-size: 1000px;
+    
+    width: 500px;
+    height: auto;
+    padding: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    
+}
+
+.divcard{
+    color:darkorange;
+    display: inline-block;
+    margin: 25px;
+    padding: 10px;
+    font-style: italic;
+}
+
+.logo{
+    width: 600px;
+        height: 200px;
+}
+
+.logo2{
+    width: 450px;
+        height: 450px;
+}
+    
+
+.nombre{
+    font-size: xx-large;
+    color: darkorange;
+    margin: 25px;
+    text-shadow: black 2px 2px 3px
+}
+.especie{
+    font-size: x-large;
+    color: orange;
+    text-shadow: black 2px 2px 3px
+}
+.image{
+    border-radius: 3rem;
+    box-shadow: 10px 5px 5px black
+}
+.image:hover{
+    box-shadow: -15px -10px 10px darkorange;
+}
+.boton{
+    border-bottom: 5rem;
+    color: orange;
+    background-color: black;
+    border-radius: 5rem;
+   font-size: x-large;
+    }
+
+.barra{
+    background-image: url("C:\Users\gonmz\OneDrive\Escritorio\Rick_and_morty\imagenes\rickmorty.jpg");
+border-radius: 3rem;
+background-size: contain;
+padding: 100px;
+margin:auto;
+}    
+.boton:hover{
+background-color: darkorange;
+box-shadow: 3px 3px 3px darkorange;
+color: aliceblue;
+}
+
+
+
+
